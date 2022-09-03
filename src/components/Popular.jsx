@@ -36,6 +36,7 @@ function Popular() {
             perPage: 4,
             arrows: false,
             pagination: false,
+            drag: "free",
             gap: '5rem',
           } } 
         >
