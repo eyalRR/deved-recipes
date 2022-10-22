@@ -27,6 +27,7 @@ function Popular() {
       }
 
   };
+  
   return (
     <div>
       <Wrapper>
